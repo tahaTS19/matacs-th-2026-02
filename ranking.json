@@ -1,0 +1,12 @@
+[
+{ "proposal": "C", "rank": 1, "status": "ranked",
+"score": 100, "reason": "Approved by client procurement office" },
+{ "proposal": "A", "rank": 2, "status": "ranked",
+"score": 96, "reason": "Best Experience and Timeline" },
+{ "proposal": "D", "rank": null, "status": "flagged",
+"score": null, "reason": "No timeline mentioned"},
+{ "proposal": "E", "rank": 3, "status": "ranked",
+"score": 86, "reason": "Relatively less experience and higher pricing" },
+{ "proposal": "B", "rank": null, "status": "ineligible",
+"score": null, "reason": "Mandatory check failed: No License" }
+]
